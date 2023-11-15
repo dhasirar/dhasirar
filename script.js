@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["40, Jln SP 1, 41200, Selangor"],
+        strings: ["14, Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
